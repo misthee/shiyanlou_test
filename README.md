@@ -1,2 +1,1 @@
-# shiyanlou_test
-Git课程测试
+Git is easy
